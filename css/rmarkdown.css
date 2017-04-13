@@ -72,9 +72,9 @@ p {
 
 .band .imageThree {
   position: absolute;
-  left: 10px;
-  bottom: 0px;
-  width: 500px;
+  left: 30px;
+  bottom: 120px;
+  width: 550px;
   height: auto;
 
   z-index: 5;
@@ -676,7 +676,7 @@ table.table td a:only-child:active {
   font-size: 24px;
 }
 
-/* adjustments for smaller screens
+/* adjustments for smaller screens */
 
 @media screen and (max-width: 1200px){
 
@@ -684,10 +684,10 @@ table.table td a:only-child:active {
     width: 490px;
     bottom: 10px;
     left: -25px;
-  } */
+  }
 
   .band .imageThree {
-    left: 0px;
+    left: 30px;
   }
 }
 
@@ -778,8 +778,8 @@ table.table td a:only-child:active {
   }
 
   .band .imageThree {
-    position: relative;
-    left: auto;
+    position: absolute;
+    left: 30px;
     bottom: auto;
     max-width: 100%;
   }
