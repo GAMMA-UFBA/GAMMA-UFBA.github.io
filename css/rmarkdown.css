@@ -677,7 +677,7 @@ table.table td a:only-child:active {
   font-size: 24px;
 }
 
-/* adjustments for smaller screens */
+/* adjustments for smaller screens 
 
 @media screen and (max-width: 1200px){
 
@@ -690,7 +690,7 @@ table.table td a:only-child:active {
   .band .imageThree {
     left: 30px;
   }
-}
+}*/
 
 @media screen and (max-width: 1023px){
 
