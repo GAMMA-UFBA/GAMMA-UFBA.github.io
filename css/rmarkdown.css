@@ -692,7 +692,7 @@ table.table td a:only-child:active {
   }
 }*/
 
-@media screen and (max-width: 1630px){
+@media screen and (max-width: 1200px){
 
   #rStudioHeader .productName {
     font-size: 30px;
@@ -700,7 +700,7 @@ table.table td a:only-child:active {
 
   #rStudioHeader .innards {
     align-items: flex-start;
-    padding: 30px 0;
+    padding: 10px 0;
   }
 
   #rStudioHeader #menu #menuToggler {
@@ -768,7 +768,7 @@ table.table td a:only-child:active {
     max-width: 120%;
     bottom: auto;
     left: auto;
-    top: -50px;
+    top: 30px;
   }
 
   .band .imageTwo {
