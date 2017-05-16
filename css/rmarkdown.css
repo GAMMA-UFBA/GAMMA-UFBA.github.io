@@ -692,7 +692,7 @@ table.table td a:only-child:active {
   }
 }*/
 
-@media screen and (max-width: 1023px){
+@media screen and (max-width: 1485px){
 
   #rStudioHeader .productName {
     font-size: 30px;
