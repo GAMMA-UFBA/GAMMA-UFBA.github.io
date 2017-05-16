@@ -1,4 +1,4 @@
-    ---
+---
 title: "R Notebooks"
 output:
   html_document:
