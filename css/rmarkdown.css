@@ -64,7 +64,7 @@ p {
 
 .band .imageTwo {
   position: absolute;
-  top: 10%;
+  top: 15%;
   right: 10px;
   width: 600px;
   height: auto;
@@ -780,11 +780,12 @@ table.table td a:only-child:active {
   }
 
   .band .imageThree {
-    position: absolute;
+    margin-bottom: 100px;
+    position: relative;
     left: 0px;
     bottom: auto;
-    max-width: 100%;
-  }
+    width: 100%;
+}
 
   #pageContent .pageTitle {
     font-size: 30px;
