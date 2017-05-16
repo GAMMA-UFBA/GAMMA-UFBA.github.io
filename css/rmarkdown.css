@@ -407,7 +407,8 @@ p {
 .formatTable .formatDescription {
   display: table-cell;
   line-height: 15px;
-  padding-bottom: 5px;
+  padding-bottom: 15px;
+  text-align: justify;
 }
 
 .formatTable a.formatTableRow .formatDescription {
