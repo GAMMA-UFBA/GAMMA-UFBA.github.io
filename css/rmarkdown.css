@@ -54,7 +54,7 @@ p {
 
 .band .imageOne {
   position: absolute;
-  left: 20px;
+  left: -10%;
   bottom: 70px;
   width: 630px;
   height: auto;
@@ -684,7 +684,7 @@ table.table td a:only-child:active {
   .band .imageOne {
     width: 490px;
     bottom: 10px;
-    left: -25px;
+    left: -15%;
   }
 
   .band .imageThree {
