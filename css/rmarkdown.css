@@ -318,6 +318,7 @@ p {
 
 .gallerySection .gallerySectionTitle, .formatSection .formatSectionTitle {
   font-size: 25px;
+  padding-bottom: 10px;
   font-weight: 300;
 }
 
