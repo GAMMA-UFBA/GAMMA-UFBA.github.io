@@ -261,8 +261,9 @@ p {
 }
 
 #pageContent .pageTitle {
-  font-size: 40px;
-  font-weight: 300;
+    font-size: 40px;
+    font-weight: 300;
+    margin-top: 5%;
 }
 
 #pageContent .pageIntro {
