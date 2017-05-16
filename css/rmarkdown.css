@@ -65,18 +65,18 @@ p {
 .band .imageTwo {
   position: absolute;
   top: 15%;
-  right: 5%;
+  right: -5%;
   width: 600px;
   height: auto;
 }
 
 .band .imageThree {
   position: absolute;
-  left: 5%;
+  left: -5%;
   bottom: 15%;
   width: 550px;
   height: auto;
-
+  top: 15%;
   z-index: 5;
 }
 
