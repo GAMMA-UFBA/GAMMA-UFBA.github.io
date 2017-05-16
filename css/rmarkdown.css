@@ -88,7 +88,7 @@ p {
   right: 0px;
   height: auto;
   z-index: 100;
-  padding: 1% 5%;
+  
 /*
   color: #fff;
 }
@@ -122,7 +122,8 @@ p {
 }
 
 #rStudioHeader.shrunk .innards, #rStudioHeader.alwaysShrunk .innards {
-  padding: 10px 0;
+ 
+  padding: 0.5% 5%;
 }
 
 #rStudioHeader .productName {
