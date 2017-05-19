@@ -341,7 +341,7 @@ p {
 }
 
 .gallerySection .galleryItems .galleryItem {
-  width: 23%;
+  width: 29%;
 
   border: 1px solid #f0f0f0;
   margin-bottom: 20px;
@@ -353,10 +353,12 @@ p {
 }
 
 .gallerySection .galleryItems .galleryItem .galleryItemLabel {
-  display: block;
-  cursor: pointer;
-  border-top: 1px solid #f0f0f0;
-  padding: 10px 10px 5px 10px;
+    display: block;
+    cursor: pointer;
+    border-top: 1px solid #f0f0f0;
+    padding: 10px 10px 10px 10px;
+    text-align: justify;
+    font-size: larger;
 }
 
 .gallerySection .galleryItems .galleryItem .galleryItemImage {
@@ -365,8 +367,12 @@ p {
 }
 
 .gallerySection .galleryItems .galleryItem .galleryItemDescription {
-  font-size: 12px;
-  padding: 0px 10px 10px 10px;
+    font-size: 12px;
+    padding: 0px 10px 10px 10px;
+    text-align: justify;
+    font-weight: bold;
+    font-size: medium;
+    text-align: -webkit-center;
 }
 
 .formatSection a.doc, .formatSection a.pres, .formatSection a.more {
