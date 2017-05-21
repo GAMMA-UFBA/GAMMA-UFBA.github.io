@@ -1,1 +1,1 @@
-# GAMMA-UFBA.github.io
+# Site de pesquisa do grupo Gamma
