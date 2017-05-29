@@ -1,18 +1,18 @@
 ---
-title: "R Notebooks"
+title: "Começando com o R"
 output:
   html_document:
-    toc: false
+    toc: true
     toc_depth: 3
 ---
 
-**NOTE**: R Notebooks are new feature of RStudio and are only available in version 1.0 or higher of RStudio. You can download the latest version of RStudio here: <https://www.rstudio.com/products/rstudio/download/>.
+**NOTA**: Este documento será continuamente atualizado conforme novos canais de comunicação e ferramentas forem sendo lançados. O conteúdo presente representa 
 
 ## Overview
 
 An R Notebook is an R Markdown document with chunks that can be executed independently and interactively, with output visible immediately beneath the input.
 
-![](images/notebook-demo.png)
+![](images/r_terminal.PNG)
 
 
 R Notebooks are a method of [literate programming](https://en.wikipedia.org/wiki/Literate_programming) that allows for direct interaction with R while producing a reproducible document with publication-quality output.
