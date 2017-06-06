@@ -408,7 +408,7 @@ p {
 
 .formatTable .formatName {
   display: table-cell;
-  padding: 5px;
+  padding: 0px;
   width: 200px;
 }
 
