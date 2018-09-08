@@ -350,7 +350,7 @@ p {
   margin-right: 20px;
 }
 
-.galleryItem2 {
+.gallerySection .galleryItems .galleryItem2 {
   width: 18%;
 
   border: 1px solid #f0f0f0;
@@ -374,6 +374,24 @@ p {
   width: 100%;
   height: auto;
 }
+
+.gallerySection .galleryItems .galleryItem2:hover {
+
+}
+
+.gallerySection .galleryItems .galleryItem2 .galleryItemLabel {
+  display: block;
+  cursor: pointer;
+  border-top: 1px solid #f0f0f0;
+  padding: 10px 10px 5px 10px;
+  text-align: center;
+}
+
+.gallerySection .galleryItems .galleryItem2 .galleryItemImage {
+  width: 100%;
+  height: auto;
+}
+
 
 .gallerySection .galleryItems .galleryItem .galleryItemDescription {
   font-size: 12px;
@@ -824,6 +842,10 @@ table.table td a:only-child:active {
   .gallerySection .galleryItems .galleryItem {
     width: 49%;
   }
+  
+  .gallerySection .galleryItems .galleryItem2 {
+    width: 49%;
+  }
 
   .gallerySection .gallerySectionTitle {
     font-size: 24px;
@@ -855,6 +877,9 @@ table.table td a:only-child:active {
 
 @media screen and (max-width: 500px){
   .gallerySection .galleryItems .galleryItem {
+    width: 100%;
+  }
+  .gallerySection .galleryItems .galleryItem2 {
     width: 100%;
   }
   .formatTable .formatName {
