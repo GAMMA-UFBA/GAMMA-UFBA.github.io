@@ -382,6 +382,13 @@ p {
     text-align: center;
 }
 
+.gallerySection .galleryItems .galleryItem2 .galleryItemDescription {
+  font-size: 12px;
+  padding: 0px 10px 10px 10px;
+  font-weight: bold;
+    text-align: center;
+}
+
 .formatSection a.doc, .formatSection a.pres, .formatSection a.more {
   display: inline-block;
   margin: 0 15px 15px 0;
